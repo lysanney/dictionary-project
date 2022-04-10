@@ -1,5 +1,5 @@
 import "./App.css";
-import logo from "./logo.png";
+import logo from "./logo-yap-dictionary.png";
 import Dictionary from "./Dictionary.js";
 import "./Dictionary.css";
 
