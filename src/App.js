@@ -15,7 +15,16 @@ function App() {
         </main>
 
         <footer className="text-center">
-          <small>Coded by Lysanne Yap</small>
+          <small>
+            Coded by Lysanne Yap | Open-sourced on{" "}
+            <a
+              href="https://github.com/lysanney/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>
+          </small>
         </footer>
       </div>
     </div>
